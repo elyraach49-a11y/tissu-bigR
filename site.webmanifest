@@ -1,0 +1,16 @@
+{
+  "name": "Tissu Raach",
+  "short_name": "Tissu Raach",
+  "description": "Tissus d'ameublement à Tunis depuis 1945.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#fbf8f2",
+  "theme_color": "#a65437",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "96x96",
+      "type": "image/svg+xml"
+    }
+  ]
+}
